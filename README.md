@@ -1,7 +1,25 @@
-# Lab 1: Getting Started with Git & GitHub
+Logistic Regression Assignment
+Overview
 
-In this lab, I explored the basics of version control systems. 
-- Created a GitHub account.
-- Learned how to initialize a local repository using Git.
-- Practiced basic Git commands: `add`, `commit`, and `push`.
-- Connected my local environment (VS Code) to a remote repository on GitHub.
+This project uses Logistic Regression to predict whether a user clicks on an advertisement based on the Advertising dataset.
+
+Dataset
+
+The dataset includes features such as age, income, internet usage, and time spent on site, with "Clicked on Ad" as the target variable.
+
+Objective
+Analyze the data
+Build a Logistic Regression model
+Evaluate model performance
+Methods
+Data preprocessing
+Train/test split
+Model training using sklearn
+Evaluation using accuracy and confusion matrix
+Results
+
+The model achieved good performance and identified important features influencing user behavior.
+
+Libraries
+
+pandas, numpy, matplotlib, seaborn, scikit-learn
