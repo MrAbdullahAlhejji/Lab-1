@@ -1,7 +1,31 @@
-# Lab 1: Getting Started with Git & GitHub
+ Decision Trees & Random Forest Project
 
-In this lab, I explored the basics of version control systems. 
-- Created a GitHub account.
-- Learned how to initialize a local repository using Git.
-- Practiced basic Git commands: `add`, `commit`, and `push`.
-- Connected my local environment (VS Code) to a remote repository on GitHub.
+ Overview
+
+This project predicts whether a loan will be fully paid using:
+
+* Decision Tree
+* Random Forest
+
+ Dataset
+
+Loan data from LendingClub including features like FICO score, interest rate, and loan purpose.
+
+ Steps
+
+1. Data exploration (EDA)
+2. Data preprocessing
+3. Train/test split
+4. Model training
+5. Evaluation
+
+ Results
+
+* Decision Tree: متوسط performance
+* Random Forest: better performance
+
+ Best model: Random Forest
+
+ Libraries
+
+pandas, numpy, matplotlib, seaborn, scikit-learn
