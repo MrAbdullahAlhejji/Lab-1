@@ -38,15 +38,6 @@ scikit-learn (SVC, GridSearchCV, train_test_split)
 
 seaborn, matplotlib
 
-Run Instructions
-Install dependencies:
-
-bash
-pip install pandas seaborn matplotlib scikit-learn
-Open 02-SVM Assignment.ipynb in Jupyter Notebook.
-
-Run all cells sequentially.
-
 Notes
 The dataset is small, so the model performed perfectly.
 
